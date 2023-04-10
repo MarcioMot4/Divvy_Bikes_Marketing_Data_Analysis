@@ -1,6 +1,9 @@
 <h1 align="left">Divvy: bike riding it's way to speedy success through data</h1>
 <h3 align="left">A data analysis for Divvy Bikes, a bike-share company in Chicago, who wants to increase its customer generated revenue maximizing the number of annual memberships</h3>
 
+<img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/divvy_bikes.jpg" alt="Divvy Bikes"/>
+
+
 In this study, we will perform an analysis of data provided by Divvy in order to **help them on their data driven efforts to attract more annual members.** 
 
 This is part of the work to conclude the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) as a Case Study.  The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement)
@@ -49,13 +52,6 @@ For sharing the results and plotting the findings (reports, dashboards e present
 
 
 
-
-<a href="https://linkedin.com/in/marciomota7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marciomota7" height="30" width="40" /></a>
-
-
-
-
-
 ## Overal Conclusions and recommendations
 
 #### How do annual members and casual riders use bikes differently?
@@ -65,8 +61,10 @@ For sharing the results and plotting the findings (reports, dashboards e present
 
 *Casual*
  - Use the service, probably **for fun and leisure, during weekends afternoons**. They like to ride **slightly longer rides**
- 
-#### **Why would casual riders buy annual memberships?**
+   
+   <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/Customers_riding_day.jpg" alt="Divvy Bikes"/>
+   
+ #### **Why would casual riders buy annual memberships?**
 
 * Casual users that like the service and enjoy it during weekends leisure time with family, may be willing to subscribe for an annual membership in order to try to sustain a healthier lifestyle, even during workdays, when commuting to work. 
 
@@ -80,9 +78,10 @@ For sharing the results and plotting the findings (reports, dashboards e present
 * Besides social media, I would also use e-mail Marketing and even leaflets to be delivered on the bike stations, exclusively during the weekend for the Casual Riders. 
 
 * Is fair to note that Chicago receives thousands of tourists who also use the shared bike services as casual riders. These should be excluded from as target on this campaign 
+  <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/22d0e4feb8db5883ae47401bea693d72d40ac698/Customers_Density.jpg" alt="Divvy Bikes"/>
+   
 
-.
-
+   
 #### **Divvy Healthier Week Challenge**
 * I would also launch a huge campaign on all those medias with a Divvy Challenge daring casual users to, at least once a week, commute to work using Divvy Bikes.
 
