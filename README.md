@@ -1,7 +1,7 @@
 <h1 align="left">Divvy: bike riding it's way to speedy success through data</h1>
 <h3 align="left">A data analysis for Divvy Bikes, a bike-share company in Chicago, who wants to increase its customer generated revenue maximizing the number of annual memberships</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/divvy_bikes.jpg" alt="Divvy Bikes"/>
+<a href="https://github.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/blob/main/Divvy_Bikes_Marketing_Data_Analysis.ipynb" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/divvy_bikes.jpg" alt="Divvy Bikes"/> </a>
 
 
 In this study, we will perform an analysis of data provided by Divvy in order to **help them on their data driven efforts to attract more annual members.** 
@@ -62,7 +62,7 @@ For sharing the results and plotting the findings (reports, dashboards e present
 *Casual*
  - Use the service, probably **for fun and leisure, during weekends afternoons**. They like to ride **slightly longer rides**
    
-   <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/Customers_riding_day.jpg" alt="Divvy Bikes"/>
+<a href="https://github.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/blob/main/Divvy_Bikes_Marketing_Data_Analysis.ipynb" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/Images/Customers_riding_day.jpg" alt="Divvy Bikes"/> </a>
    
  #### **Why would casual riders buy annual memberships?**
 
@@ -78,7 +78,7 @@ For sharing the results and plotting the findings (reports, dashboards e present
 * Besides social media, I would also use e-mail Marketing and even leaflets to be delivered on the bike stations, exclusively during the weekend for the Casual Riders. 
 
 * Is fair to note that Chicago receives thousands of tourists who also use the shared bike services as casual riders. These should be excluded from as target on this campaign 
-  <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/22d0e4feb8db5883ae47401bea693d72d40ac698/Customers_Density.jpg" alt="Divvy Bikes"/>
+<a href="https://github.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/blob/main/Divvy_Bikes_Marketing_Data_Analysis.ipynb" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/MarcioMot4/Divvy_Bikes_Marketing_Data_Analysis/22d0e4feb8db5883ae47401bea693d72d40ac698/Customers_Density.jpg" alt="Divvy Bikes"/> </a>
    
 
    
